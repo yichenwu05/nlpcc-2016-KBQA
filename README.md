@@ -1,3 +1,3 @@
 # nlpcc-2016-KBQA
 
-- Build multiple bidirectional LSTM layer to do NER ( Named Entity Recognition )
+- Build multiple bidirectional LSTM layers to do NER ( Named Entity Recognition )
